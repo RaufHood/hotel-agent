@@ -1,0 +1,16 @@
+test
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+
+# Node
+node_modules/
+dist/
+qdrant_data
+feedback.db
+rag\feedback.db

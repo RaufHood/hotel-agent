@@ -1,0 +1,110 @@
+[
+    {
+      "id": "rostock_general",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "general",
+      "content": "Welcome to the DORMERO Hotel Rostock, where coastal vibes meet bold design. Located close to the city harbor, we combine Hanseatic charm with our signature modern and slightly rebellious style. You can reach us at +49 381 123456 or via email at rostock@dormero.de. Expect a relaxed but upscale atmosphere with a touch of red everywhere.",
+      "tags": ["general", "contact", "rostock", "harbor", "dormero"]
+    },
+    {
+      "id": "rostock_rooms",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "rooms",
+      "content": "Our rooms range from compact city rooms to spacious harbor-view suites. Sizes start at around 18 square meters and go up to 50 square meters for premium categories. Each room includes a free minibar, cozy beds, and a modern entertainment system. Prices typically range between €80 and €180 depending on season and sea proximity.",
+      "tags": ["rooms", "harbor view", "minibar", "pricing", "comfort"]
+    },
+    {
+      "id": "rostock_parking",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "parking",
+      "content": "We offer a limited number of on-site outdoor parking spaces for around €12 per day. Alternatively, there’s a public parking garage just 3 minutes away. EV charging is available at nearby stations in the harbor district. We recommend reserving a spot in advance during peak season.",
+      "tags": ["parking", "outdoor", "garage", "ev", "harbor"]
+    },
+    {
+      "id": "rostock_pets",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "pets",
+      "content": "Dogs are very welcome here – especially with the beach not too far away. We charge €15 per night per pet, with no strict size limits. Please just ensure your pet is comfortable in new environments and respectful of other guests. Beach walks are highly recommended.",
+      "tags": ["pets", "dogs", "beach", "pet-friendly"]
+    },
+    {
+      "id": "rostock_checkin_checkout",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "checkin_checkout",
+      "content": "Check-in begins at 15:00, and check-out is until 11:00. Our reception is staffed from 6:00 to 22:00, with a self-check-in option available outside these hours. Early check-in and late check-out can be arranged upon request. We aim to keep your stay as smooth as possible.",
+      "tags": ["check-in", "check-out", "self check-in", "reception"]
+    },
+    {
+      "id": "rostock_facilities",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "facilities",
+      "content": "The hotel features a small but stylish fitness area and a cozy bar with harbor views. While we don’t have a full spa, we offer a sauna for relaxation. There’s also a lounge area perfect for working or unwinding. Everything is designed with a laid-back coastal feel.",
+      "tags": ["gym", "sauna", "bar", "lounge", "facilities"]
+    },
+    {
+      "id": "rostock_location",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "location",
+      "content": "We’re located near the Rostock harbor, offering easy access to both the old town and the waterfront. The famous Warnemünde beach is just a short train ride away. Restaurants, bars, and cultural spots are all within walking distance. It’s the perfect base for exploring the Baltic coast.",
+      "tags": ["location", "harbor", "beach", "warnemunde", "walkable"]
+    },
+    {
+      "id": "rostock_accessibility",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "accessibility",
+      "content": "The hotel offers step-free access to most areas and has elevators to all floors. We also provide a few wheelchair-accessible rooms with adapted bathrooms. If you have special requirements, feel free to contact us in advance. We’re happy to help make your stay comfortable.",
+      "tags": ["accessibility", "wheelchair", "elevator"]
+    },
+    {
+      "id": "rostock_breakfast",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "breakfast",
+      "content": "Our breakfast includes a mix of regional specialties and international favorites. Fresh fish options, local breads, and vegan dishes are part of the selection. Served daily with flexible hours, it’s a great way to start your coastal day. Coffee lovers won’t be disappointed either.",
+      "tags": ["breakfast", "regional", "fish", "vegan", "coffee"]
+    },
+    {
+      "id": "rostock_wifi",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "wifi",
+      "content": "Free Wi-Fi is available throughout the hotel, including rooms and common areas. The connection is stable and suitable for both work and streaming. No login hassle – just connect and enjoy. Staying online by the sea has never been easier.",
+      "tags": ["wifi", "internet", "free"]
+    },
+    {
+      "id": "rostock_payment",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "payment",
+      "content": "Like all DORMERO hotels, we operate fully cashless. Payments can be made via all major credit and debit cards. This ensures a quick and seamless experience during your stay. Modern, simple, and efficient.",
+      "tags": ["payment", "cashless", "card"]
+    },
+    {
+      "id": "rostock_design",
+      "hotel_id": "dormero-rostock",
+      "hotel_name": "DORMERO Hotel Rostock",
+      "city": "Rostock",
+      "topic": "design",
+      "content": "Expect a mix of maritime inspiration and bold DORMERO style. Think clean lines, modern furniture, and signature red accents that pop against neutral tones. The design reflects both the coastal surroundings and our unique brand identity. Stylish, but never boring.",
+      "tags": ["design", "interior", "brand", "coastal"]
+    }
+  ]

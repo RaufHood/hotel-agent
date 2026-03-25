@@ -1,0 +1,146 @@
+[
+    {
+      "id": "coburg_general",
+      "hotel_id": "dormero-coburg",
+      "hotel_name": "DORMERO Hotel Coburg",
+      "city": "Coburg",
+      "topic": "general",
+      "content": "Welcome to the DORMERO Hotel Coburg, where elegance meets a slightly rebellious twist. Located at Am Viktoriabrunnen 2, just minutes from the historic city center, we offer a stylish stay with a modern edge. You can reach us at +49 9561 8760 or via email at coburg@dormero.de. As part of the DORMERO family, we’re fully cashless and only accept card payments.",
+      "tags": ["general", "contact", "address", "dormero", "coburg"]
+    },
+    {
+      "id": "coburg_rooms",
+      "hotel_id": "dormero-coburg",
+      "hotel_name": "DORMERO Hotel Coburg",
+      "city": "Coburg",
+      "topic": "rooms",
+      "content": "Our 68 rooms combine modern elegance with a cozy, sensual atmosphere inspired by Coburg’s rich history. You can choose from standard rooms up to more spacious comfort options, all featuring high-quality beds, free minibar, and bold design elements. Room sizes range from around 20 to 35 square meters. Prices typically vary between €90 and €160 per night depending on season and demand.",
+      "tags": ["rooms", "pricing", "minibar", "design", "comfort"]
+    },
+    {
+      "id": "coburg_parking",
+      "hotel_id": "dormero-coburg",
+      "hotel_name": "DORMERO Hotel Coburg",
+      "city": "Coburg",
+      "topic": "parking",
+      "content": "Parking is available in a nearby public parking garage just a short walk from the hotel. Daily rates are usually around €10 to €15. While we don’t have dedicated on-site parking, the location is convenient and easy to access. EV charging stations are available within walking distance in the city center.",
+      "tags": ["parking", "garage", "ev", "location", "transport"]
+    },
+    {
+      "id": "coburg_pets",
+      "hotel_id": "dormero-coburg",
+      "hotel_name": "DORMERO Hotel Coburg",
+      "city": "Coburg",
+      "topic": "pets",
+      "content": "We love pets just as much as our guests – dogs are always welcome at DORMERO. There’s a small fee of around €15 per night per pet. We don’t have strict size limits, but we do ask that pets are well-behaved and not left alone for long periods. Expect a few extra smiles and maybe even a treat at reception.",
+      "tags": ["pets", "dogs", "pet-friendly", "fees"]
+    },
+    {
+      "id": "coburg_checkin_checkout",
+      "hotel_id": "dormero-coburg",
+      "hotel_name": "DORMERO Hotel Coburg",
+      "city": "Coburg",
+      "topic": "checkin_checkout",
+      "content": "Check-in is available from 15:00, and check-out is until 12:00. Our reception is open daily from 13:00 to 23:00, so please let us know if you plan to arrive later. Early check-in or late check-out can often be arranged depending on availability. We aim to keep things flexible and guest-friendly whenever possible.",
+      "tags": ["check-in", "check-out", "reception", "flexibility"]
+    },
+    {
+      "id": "coburg_facilities",
+      "hotel_id": "dormero-coburg",
+      "hotel_name": "DORMERO Hotel Coburg",
+      "city": "Coburg",
+      "topic": "facilities",
+      "content": "Our hotel features a spacious wellness area where you can relax after a day exploring Coburg. There’s also a stylish bar serving drinks in true DORMERO fashion – bold and a little unconventional. For business guests, we offer three modern meeting rooms. While we don’t have a full restaurant, you’ll find plenty of great dining options nearby.",
+      "tags": ["wellness", "bar", "meetings", "spa", "facilities"]
+    },
+    {
+      "id": "coburg_location",
+      "hotel_id": "dormero-coburg",
+      "hotel_name": "DORMERO Hotel Coburg",
+      "city": "Coburg",
+      "topic": "location",
+      "content": "You’ll find us in a prime central location, just a few minutes from Coburg’s historic Marktplatz and Schloss Ehrenburg. The charming old town with its narrow streets, towers, and churches is right on your doorstep. The famous Veste Coburg, one of Germany’s largest castles, overlooks the city and is well worth a visit. Everything is easily reachable on foot.",
+      "tags": ["location", "city center", "attractions", "castle", "walkable"]
+    },
+    {
+      "id": "coburg_accessibility",
+      "hotel_id": "dormero-coburg",
+      "hotel_name": "DORMERO Hotel Coburg",
+      "city": "Coburg",
+      "topic": "accessibility",
+      "content": "The hotel is equipped with elevators and offers step-free access to most public areas. We also provide a limited number of wheelchair-accessible rooms with adapted bathrooms. If you have specific accessibility needs, just let us know in advance and we’ll do our best to accommodate you. Comfort for all guests is part of our philosophy.",
+      "tags": ["accessibility", "wheelchair", "elevator", "inclusive"]
+    },
+    {
+        "id": "coburg_breakfast",
+        "hotel_id": "dormero-coburg",
+        "hotel_name": "DORMERO Hotel Coburg",
+        "city": "Coburg",
+        "topic": "breakfast",
+        "content": "We offer a rich breakfast buffet with a mix of classic German options and modern, healthy choices. Expect fresh bread, regional cold cuts, vegan alternatives, and great coffee to start your day right. Breakfast is typically served from 6:30 to 10:30 on weekdays and a bit longer on weekends. It’s the perfect fuel before exploring Coburg’s old town.",
+        "tags": ["breakfast", "buffet", "vegan", "coffee", "food"]
+    },
+    {
+        "id": "coburg_wifi",
+        "hotel_id": "dormero-coburg",
+        "hotel_name": "DORMERO Hotel Coburg",
+        "city": "Coburg",
+        "topic": "wifi",
+        "content": "Wi-Fi is free and available throughout the entire hotel, including all rooms and public areas. The connection is fast and reliable, whether you’re working remotely or streaming your favorite series. No complicated login process – just connect and go. We know staying connected matters.",
+        "tags": ["wifi", "internet", "free", "business", "remote work"]
+    },
+    {
+        "id": "coburg_payment",
+        "hotel_id": "dormero-coburg",
+        "hotel_name": "DORMERO Hotel Coburg",
+        "city": "Coburg",
+        "topic": "payment",
+        "content": "We keep things modern and simple – DORMERO is a fully cashless hotel. All payments must be made by card, including Visa, Mastercard, and other common options. This allows for a faster and smoother check-in and check-out experience. No cash, no hassle.",
+        "tags": ["payment", "cashless", "card", "policy"]
+    },
+    {
+        "id": "coburg_bar",
+        "hotel_id": "dormero-coburg",
+        "hotel_name": "DORMERO Hotel Coburg",
+        "city": "Coburg",
+        "topic": "bar",
+        "content": "Our bar is a central meeting point with a relaxed yet stylish vibe. Whether you’re in the mood for a classic cocktail, a glass of wine, or something a bit more experimental, we’ve got you covered. It’s a great place to unwind after a day in the city or connect with fellow travelers. Expect a bit of that signature DORMERO attitude.",
+        "tags": ["bar", "drinks", "cocktails", "social", "nightlife"]
+    },
+    {
+        "id": "coburg_wellness_details",
+        "hotel_id": "dormero-coburg",
+        "hotel_name": "DORMERO Hotel Coburg",
+        "city": "Coburg",
+        "topic": "wellness_details",
+        "content": "Our wellness area is designed for pure relaxation, featuring a sauna and quiet zones to recharge. It’s spacious and modern, offering a calm escape from the city. Towels and basic amenities are provided for your convenience. Perfect for winding down in true DORMERO style.",
+        "tags": ["wellness", "spa", "sauna", "relaxation"]
+    },
+    {
+        "id": "coburg_business",
+        "hotel_id": "dormero-coburg",
+        "hotel_name": "DORMERO Hotel Coburg",
+        "city": "Coburg",
+        "topic": "business",
+        "content": "For business travelers, we offer three fully equipped meeting rooms with modern technology. They’re ideal for workshops, small conferences, or team meetings. Our team is happy to assist with setup and catering options if needed. Work meets style here.",
+        "tags": ["business", "meetings", "conference", "work"]
+    },
+    {
+        "id": "coburg_transport",
+        "hotel_id": "dormero-coburg",
+        "hotel_name": "DORMERO Hotel Coburg",
+        "city": "Coburg",
+        "topic": "transport",
+        "content": "The hotel is well connected to public transport, with bus stops just a few minutes away. Coburg’s main train station can be reached in about 10 minutes by taxi or bus. If you prefer walking, many key sights are within easy reach. Getting around is simple and convenient.",
+        "tags": ["transport", "bus", "train", "access"]
+    },
+    {
+        "id": "coburg_design",
+        "hotel_id": "dormero-coburg",
+        "hotel_name": "DORMERO Hotel Coburg",
+        "city": "Coburg",
+        "topic": "design",
+        "content": "Design is at the heart of the DORMERO experience – expect bold colors, modern interiors, and our iconic red accents throughout the hotel. We mix elegance with a slightly rebellious touch to create something unique. It’s not your typical hotel atmosphere. Think stylish, but with personality.",
+        "tags": ["design", "interior", "brand", "style"]
+    }
+    ]

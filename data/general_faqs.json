@@ -1,0 +1,92 @@
+[
+    {
+      "id": "faq_booking_methods",
+      "topic": "booking",
+      "content": "You can book your stay directly via our website or through our central reservation team. We’re available by phone Monday to Friday from 7:00 to 19:00 and on weekends from 10:00 to 18:00, or by email anytime. Booking directly often gives you access to the best rates and offers. Quick, simple, and very DORMERO.",
+      "tags": ["booking", "reservation", "website", "contact"]
+    },
+    {
+      "id": "faq_credit_card",
+      "topic": "booking",
+      "content": "A credit card is usually required to guarantee your booking, especially if you plan to arrive after 18:00. For discounted rates like the Fancy Saver, full prepayment by credit card is required at the time of booking. It helps us keep everything smooth and secure. No surprises, just clarity.",
+      "tags": ["credit card", "payment", "booking", "policy"]
+    },
+    {
+      "id": "faq_payment_methods",
+      "topic": "payment",
+      "content": "DORMERO is fully cashless – we only accept card payments. This applies to all services during your stay, from room charges to extras. It keeps things fast, modern, and hassle-free. Just bring your card and you’re good to go.",
+      "tags": ["payment", "cashless", "card", "policy"]
+    },
+    {
+      "id": "faq_cancellation_policy",
+      "topic": "booking",
+      "content": "Cancellation policies depend on the rate you choose. The Fancy Saver rate is non-refundable and cannot be changed, while the Smart Rate allows free cancellation up to 24 hours before arrival. Always check your booking details for exact conditions. Flexibility or savings – you decide.",
+      "tags": ["cancellation", "policy", "rates", "booking"]
+    },
+    {
+      "id": "faq_third_party_booking",
+      "topic": "booking",
+      "content": "If you booked your stay through a third-party platform like Booking or Expedia, any changes or cancellations must be handled directly through that platform. Their terms and conditions will apply. Unfortunately, we can’t modify those bookings on our side. It’s best to contact the provider you used.",
+      "tags": ["third-party", "booking", "changes", "policy"]
+    },
+    {
+      "id": "faq_breakfast",
+      "topic": "food",
+      "content": "Our breakfast buffet can be added during booking, over the phone, or directly at the hotel. It’s served daily from 6:30 to 10:30 and offers a wide selection of fresh and modern options. Prices vary by hotel, so check the specific hotel page for details. Definitely worth it to start your day right.",
+      "tags": ["breakfast", "food", "buffet", "timing"]
+    },
+    {
+      "id": "faq_room_prices",
+      "topic": "pricing",
+      "content": "Room prices vary depending on availability, demand, and special events like trade fairs. You can always find the most up-to-date rates using the booking function on our website. Prices are per room and typically exclude breakfast. Dynamic pricing keeps things fair and flexible.",
+      "tags": ["pricing", "rooms", "rates", "dynamic"]
+    },
+    {
+      "id": "faq_pets",
+      "topic": "pets",
+      "content": "Yes, your pet is welcome at DORMERO. In fact, we love having four-legged guests and usually allow them to stay free of charge. Just let us know during your booking so we can prepare. It wouldn’t be DORMERO without a bit of wagging tails.",
+      "tags": ["pets", "dogs", "pet-friendly"]
+    },
+    {
+      "id": "faq_parking",
+      "topic": "parking",
+      "content": "Parking options vary depending on the hotel location. You’ll find detailed information about parking availability and costs on each hotel’s website under the ‘Directions’ section. Please note that parking spaces generally cannot be reserved in advance. First come, first served.",
+      "tags": ["parking", "car", "availability"]
+    },
+    {
+      "id": "faq_group_booking",
+      "topic": "booking",
+      "content": "For group bookings of 10 rooms or more, our dedicated group reservations team will be happy to assist you. You can reach them via email for tailored offers and coordination. For meetings and events, please contact our events team directly. We’ll help you make it seamless.",
+      "tags": ["group booking", "events", "meetings"]
+    },
+    {
+      "id": "faq_checkin_checkout",
+      "topic": "checkin_checkout",
+      "content": "Check-in is generally available from 15:00, while check-out is until 12:00. On Sundays and public holidays, we often offer a late check-out until 14:00. Some hotels may have slight variations, so it’s always good to double-check. We like to keep things flexible where possible.",
+      "tags": ["check-in", "check-out", "timing"]
+    },
+    {
+      "id": "faq_wifi",
+      "topic": "wifi",
+      "content": "All DORMERO hotels offer free Wi-Fi throughout the building, including guest rooms. The connection is reliable and suitable for both work and leisure. No extra fees, no complicated login. Just connect and enjoy.",
+      "tags": ["wifi", "internet", "free"]
+    },
+    {
+      "id": "faq_smoking",
+      "topic": "policy",
+      "content": "All DORMERO hotels are non-smoking. Smoking is not permitted in rooms or indoor areas. Designated smoking areas may be available outside depending on the location. We appreciate your understanding.",
+      "tags": ["smoking", "policy", "non-smoking"]
+    },
+    {
+      "id": "faq_wellness",
+      "topic": "facilities",
+      "content": "Most DORMERO hotels offer a free fitness and wellness area for guests. Facilities typically include a gym and sauna, but details vary by location. You can check the exact offerings on the specific hotel’s website. Relaxation comes standard with us.",
+      "tags": ["wellness", "gym", "sauna", "facilities"]
+    },
+    {
+      "id": "faq_lost_found",
+      "topic": "support",
+      "content": "If you’ve forgotten something during your stay, our team will be happy to help. Just contact us via email with a description of the item and your stay details. We’ll check with the hotel and get back to you as soon as possible. Happens more often than you think.",
+      "tags": ["lost and found", "support", "help"]
+    }
+  ]

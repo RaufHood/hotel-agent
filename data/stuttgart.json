@@ -1,0 +1,92 @@
+[
+    {
+      "id": "stuttgart_general",
+      "hotel_id": "dormero-stuttgart",
+      "hotel_name": "DORMERO Hotel Stuttgart",
+      "city": "Stuttgart",
+      "topic": "general",
+      "content": "Welcome to the DORMERO Hotel Stuttgart, where bold design meets premium comfort right in the vibrant SI-Centrum. Located at Plieninger Straße 100, we’re perfectly positioned for both business and entertainment. You can reach us at +49 711 7210 or via email at stuttgart@dormero.de. Expect a stylish, slightly edgy atmosphere with our signature red accents throughout.",
+      "tags": ["general", "contact", "stuttgart", "address", "dormero"]
+    },
+    {
+      "id": "stuttgart_rooms",
+      "hotel_id": "dormero-stuttgart",
+      "hotel_name": "DORMERO Hotel Stuttgart",
+      "city": "Stuttgart",
+      "topic": "rooms",
+      "content": "Our rooms are spacious and modern, ranging from comfortable standard rooms to luxurious suites. Sizes typically start at around 25 square meters and go up to 60 square meters for premium options. All rooms feature high-end beds, free minibar, large desks, and smart TVs. Prices usually range between €110 and €220 per night depending on demand and events in the city.",
+      "tags": ["rooms", "suites", "pricing", "minibar", "comfort"]
+    },
+    {
+      "id": "stuttgart_parking",
+      "hotel_id": "dormero-stuttgart",
+      "hotel_name": "DORMERO Hotel Stuttgart",
+      "city": "Stuttgart",
+      "topic": "parking",
+      "content": "We offer direct access to a large underground parking garage located beneath the SI-Centrum. Parking costs around €18 per day, with plenty of spaces available. EV charging stations are also available within the garage. It’s a convenient option, especially if you’re arriving by car.",
+      "tags": ["parking", "garage", "ev", "underground", "car"]
+    },
+    {
+      "id": "stuttgart_pets",
+      "hotel_id": "dormero-stuttgart",
+      "hotel_name": "DORMERO Hotel Stuttgart",
+      "city": "Stuttgart",
+      "topic": "pets",
+      "content": "Pets are always welcome at DORMERO – we’re big fans of furry companions. There’s a fee of €15 per night per pet, and dogs of all sizes are allowed. Just make sure they’re comfortable in a hotel environment and not left unattended for long. We’ll make sure they feel just as welcome as you do.",
+      "tags": ["pets", "dogs", "pet-friendly", "policy"]
+    },
+    {
+      "id": "stuttgart_checkin_checkout",
+      "hotel_id": "dormero-stuttgart",
+      "hotel_name": "DORMERO Hotel Stuttgart",
+      "city": "Stuttgart",
+      "topic": "checkin_checkout",
+      "content": "Check-in starts at 15:00, and check-out is until 12:00. Our reception is open 24/7, so late arrivals are no problem at all. Early check-in and late check-out are available on request, depending on occupancy. We keep things flexible to match your schedule.",
+      "tags": ["check-in", "check-out", "24h", "reception"]
+    },
+    {
+      "id": "stuttgart_facilities",
+      "hotel_id": "dormero-stuttgart",
+      "hotel_name": "DORMERO Hotel Stuttgart",
+      "city": "Stuttgart",
+      "topic": "facilities",
+      "content": "The hotel offers a full range of facilities including a large fitness area, sauna, and multiple dining options within the SI-Centrum. You’ll also find bars, entertainment venues, and even musical theaters right next door. It’s more than just a hotel – it’s an experience hub. Perfect for both work and play.",
+      "tags": ["gym", "sauna", "entertainment", "restaurants", "facilities"]
+    },
+    {
+      "id": "stuttgart_location",
+      "hotel_id": "dormero-stuttgart",
+      "hotel_name": "DORMERO Hotel Stuttgart",
+      "city": "Stuttgart",
+      "topic": "location",
+      "content": "We’re located in the lively SI-Centrum in Stuttgart-Möhringen, a hotspot for entertainment and nightlife. The airport and trade fair are just a short drive away, making it ideal for business travelers. The city center can be reached in about 20 minutes by public transport. You’ll have the best of both worlds – accessibility and excitement.",
+      "tags": ["location", "si-centrum", "airport", "transport", "nightlife"]
+    },
+    {
+      "id": "stuttgart_accessibility",
+      "hotel_id": "dormero-stuttgart",
+      "hotel_name": "DORMERO Hotel Stuttgart",
+      "city": "Stuttgart",
+      "topic": "accessibility",
+      "content": "The hotel is fully accessible, with elevators, step-free entrances, and wheelchair-friendly rooms available. Public areas, including the parking garage, are designed for easy access. If you need a specially equipped room, just let us know in advance. We aim to make every stay comfortable and inclusive.",
+      "tags": ["accessibility", "wheelchair", "elevator", "inclusive"]
+    },
+    {
+      "id": "stuttgart_breakfast",
+      "hotel_id": "dormero-stuttgart",
+      "hotel_name": "DORMERO Hotel Stuttgart",
+      "city": "Stuttgart",
+      "topic": "breakfast",
+      "content": "Our breakfast buffet offers a wide selection from continental classics to healthier, modern options. You’ll find fresh pastries, eggs, vegan alternatives, and excellent coffee. Breakfast is served daily with extended hours on weekends. It’s the perfect way to start your day in Stuttgart.",
+      "tags": ["breakfast", "buffet", "vegan", "food"]
+    },
+    {
+      "id": "stuttgart_wifi",
+      "hotel_id": "dormero-stuttgart",
+      "hotel_name": "DORMERO Hotel Stuttgart",
+      "city": "Stuttgart",
+      "topic": "wifi",
+      "content": "Free high-speed Wi-Fi is available throughout the entire hotel. Whether you’re working, streaming, or just browsing, you can rely on a stable connection. No complicated setup required. Just connect and enjoy.",
+      "tags": ["wifi", "internet", "free", "business"]
+    }
+  ]
