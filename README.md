@@ -55,16 +55,13 @@ Backend is now at `http://localhost:8000`.
 
 ### 2. ngrok tunnel (so ElevenLabs can reach your local backend)
 
-In a separate terminal:
+Instead of running uvicorn directly, use the ngrok Python SDK to start both together:
 
 ```bash
-ngrok config add-authtoken $NGORK_TOKEN   # one-time setup
-ngrok http 8000
+python -m ngrok --authtoken $NGORK_TOKEN uvicorn main:app
 ```
 
-Copy the printed HTTPS URL (e.g. `https://xxxx.ngrok-free.app`) and set it as the ElevenLabs tool webhook URL: `https://xxxx.ngrok-free.app/query`.
-
-> The free ngrok subdomain changes every restart — update the tool URL in ElevenLabs each time, or use a paid reserved domain.
+Copy the printed public URL and set it as the ElevenLabs tool webhook URL: `https://<ngrok-url>/query`.
 
 ### 3. Control Center (React)
 

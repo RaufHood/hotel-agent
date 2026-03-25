@@ -72,33 +72,13 @@ The SQLite feedback database is created automatically on startup (`feedback.db`)
 
 ## Expose via ngrok
 
-For ElevenLabs tool calling the server must be publicly reachable. ngrok tunnels your local port 8000 to a public HTTPS URL.
-
-**1. Set your authtoken once** (stored in `~/.config/ngrok/ngrok.yml`):
+For ElevenLabs tool calling the server must be publicly reachable. Use the ngrok Python SDK to start the tunnel and the server together:
 
 ```bash
-ngrok config add-authtoken $NGORK_TOKEN
+python -m ngrok --authtoken $NGORK_TOKEN uvicorn main:app
 ```
 
-Or pass it inline without storing:
-
-```bash
-NGROK_AUTHTOKEN=$NGORK_TOKEN ngrok http 8000
-```
-
-**2. Start the tunnel** (in a separate terminal, while uvicorn is running):
-
-```bash
-ngrok http 8000
-```
-
-**3. Copy the forwarding URL** printed by ngrok, e.g. `https://dearly-uncomplimenting-wilton.ngrok-free.app`, and update the ElevenLabs tool webhook URL to:
-
-```
-https://<your-ngrok-subdomain>.ngrok-free.app/query
-```
-
-> **Free tier note:** the subdomain changes every time you restart ngrok. To get a stable URL, use a paid ngrok plan with a reserved domain — or set `NGROK_AUTHTOKEN` in `.env` and use the ngrok Python SDK to start the tunnel from within `main.py`.
+Copy the printed public URL and paste it as the ElevenLabs tool endpoint (`https://<ngrok-url>/query`).
 
 ---
 
